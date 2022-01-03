@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>begin</class>
+ <widget class="QWidget" name="begin">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>283</width>
+    <height>302</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>begin</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>50</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>开始游戏</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>110</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>游戏说明</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>170</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>按键说明</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>230</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>退出游戏</string>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
